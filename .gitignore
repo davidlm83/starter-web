@@ -105,3 +105,6 @@ dist
 
 # access log
 log/
+
+#*.orig
+*.orig
