@@ -6,3 +6,7 @@ Ajout de lignes pour tester p4merge
 Ajout de plus de lignes
 
 encore une ligne
+
+une ligne de plus
+
+one more line
