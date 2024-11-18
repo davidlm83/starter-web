@@ -10,3 +10,6 @@ encore une ligne
 une ligne de plus
 
 one more line
+
+[Changelog]
+Ajout du copyright
